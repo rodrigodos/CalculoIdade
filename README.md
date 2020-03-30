@@ -14,7 +14,7 @@ O exercício é gerar uma solução onde seja informado a data de nascimento, e 
 
 A linguagem que utilizamos é C# com .Net Framework.
 
-O que avaliamos no teste
+O que avaliamos no teste:
 
 Realizar o exercicío é importante, mas o mais importante é o entendimento do problema, elaboração da solução de forma mais simples possível, como o exercicío é realizado, valorizamos uma boa organização e código limpo, com qualidade. Algumas preocupações que você precisa ter:
 
