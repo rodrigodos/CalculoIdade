@@ -6,12 +6,19 @@ Com sede na França, contamos com sete escritórios na América Latina e mais de
 Juntos, estamos contribuindo para transformar o futuro dos meios de pagamentos. 
 
 
-Exercício de programação: As principais palavras
+Exercício de programação: Cálculo de idade.
+
+A área financeira vêm calculando o aniversário dos funcionários de forma manual.
+
+O exercício é gerar uma solução onde seja informado a data de nascimento, e a resposta seja a idade em dias, mês e anos.
 
 A linguagem que utilizamos é C#. Pode escolher fazer o teste com .Net Framework ou .Net Core.
 
 O que avaliamos no teste
-Realizar o exercicío é importante, mas o mais importante é o como o exercicío é realizado, valorizamos uma boa organização e código limpo, com qualidade. Algumas preocupações que você precisa ter:
+
+Compreensão da solicitação para solução.
+Realizar o exercicío é importante, mas o mais importante é o com
+o o exercicío é realizado, valorizamos uma boa organização e código limpo, com qualidade. Algumas preocupações que você precisa ter:
 
 Organização do seu projeto.
 Orientação a objetos.
