@@ -12,21 +12,15 @@ A área financeira vêm calculando o aniversário dos funcionários de forma man
 
 O exercício é gerar uma solução onde seja informado a data de nascimento, e a resposta seja a idade em dias, mês e anos.
 
-A linguagem que utilizamos é C#. Pode escolher fazer o teste com .Net Framework ou .Net Core.
+A linguagem que utilizamos é C# com .Net Framework.
 
 O que avaliamos no teste
 
-Compreensão da solicitação para solução.
-Realizar o exercicío é importante, mas o mais importante é o com
-o o exercicío é realizado, valorizamos uma boa organização e código limpo, com qualidade. Algumas preocupações que você precisa ter:
+Realizar o exercicío é importante, mas o mais importante é o entendimento do problema, elaboração da solução de forma mais simples possível, como o exercicío é realizado, valorizamos uma boa organização e código limpo, com qualidade. Algumas preocupações que você precisa ter:
 
 Organização do seu projeto.
 Orientação a objetos.
 Codigo testável.
 Separação de responsabilidades.
-Como trabalhamos aqui
-Trabalhamos com uma boa infraestrutura, nosso hardware é muito bom e possuímos um ambiente de trabalho muito agradável. A empresa não possui hierarquias desnecessárias e você é convidado e desafiado a colaborar com todas as frentes de trabalho. Ou seja, aqui o “pitaco” é bem vindo!
 
-Nós acreditamos muito nos números para tomada de decisões. Nós possuímos diversas métricas e isso inclui também medir o nosso código. Acompanhamos esses indicadores para construir códigos sólidos e de fácil manutenção. Afinal, queremos a cada dia mais flexibilidade e continuar animados a evoluir nossas aplicações.
 
-Nosso trabalho é baseado em autogestão. Só existe uma regra de convivência na frente de TI: É proibido murmurar! Aqui as opiniões são discutidas, resolvidas e sempre chegamos a um consenso para melhorar a nossa convivência. Isso não foi descrito por um gerente de RH e sim por um desenvolvedor de software!
