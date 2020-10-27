@@ -16,8 +16,10 @@ A linguagem que utilizamos é C# com .Net Framework.
 
 O que avaliamos no teste:
 
-Realizar o exercicío é importante, mas o mais importante é o entendimento do problema, elaboração da solução de forma mais simples possível, como o exercicío é realizado, valorizamos uma boa organização e código limpo, com qualidade. Algumas preocupações que você precisa ter:
+Realizar o exercicío é importante, mas o mais importante é o entendimento do problema e como o exercicío é realizado.Elaboração da solução de forma mais simples possível.
+Valorizamos uma boa organização e código limpo, com qualidade. 
 
+Algumas preocupações que você precisa ter:
 Organização do seu projeto.
 Orientação a objetos.
 Codigo testável.
