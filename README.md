@@ -27,4 +27,4 @@ Orientação a objetos.
 Codigo testável.
 Separação de responsabilidades.
 
-Qualquer dúvida, entrar em contato com o analista de negócio resposável pelo projeto com a área através do e-mail rodrigo.dias@ingenico.com usando o assunto: [IngenicoOpportunities]
+Qualquer dúvida, entrar em contato com o analista de negócio resposável pelo projeto com a área através do e-mail marco.foganholo@ingenico.com usando o assunto: [IngenicoOpportunities]
