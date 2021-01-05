@@ -18,8 +18,6 @@ O que avaliamos no teste:
 
 Realizar o exercicío é importante, mas o mais importante é o entendimento do problema e como o exercicío é realizado.
 
-Valorizamos uma boa organização e código limpo, com qualidade. 
-
 Algumas preocupações que você precisa ter:
 Elaboração da solução de forma mais simples possível
 Organização do seu projeto.
@@ -27,4 +25,4 @@ Orientação a objetos.
 Codigo testável.
 Separação de responsabilidades.
 
-Qualquer dúvida, entrar em contato com o analista de negócio resposável pelo projeto com a área através do e-mail marco.foganholo@ingenico.com usando o assunto: [IngenicoOpportunities]
+Qualquer dúvida, entrar em contato com o analista de negócio resposável pelo projeto com a área através do e-mail rodrigo.dias@ingenico.com usando o assunto: [IngenicoOpportunities]
