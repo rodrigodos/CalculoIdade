@@ -1,12 +1,11 @@
+Programming exercise: Age calculation.
 
-Exercício de programação: Cálculo de idade.
+The financial area has been calculating employees' birthdays manually.
 
-A área financeira vêm calculando o aniversário dos funcionários de forma manual.
+The exercise is to generate a solution where birth data is entered, and the answer is age in years, months and days.
 
-O exercício é gerar uma solução onde seja informado a data de nascimento, e a resposta seja a idade em anos, meses e dias.
+The language we use is C# with .Net Framework.
 
-A linguagem que utilizamos é C# com .Net Framework.
+What we evaluate in the test:
 
-O que avaliamos no teste:
-
-Realizar o exercicío é importante, mas o mais importante é o entendimento do problema e como o exercicío é realizado.
+Performing the exercise is important, but the most important thing is understanding the problem and how the exercise is performed.
